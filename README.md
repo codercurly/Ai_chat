@@ -51,4 +51,4 @@ MIT
 
 ---
 
-Made with ❤️ and 🎧 by [your name or username]
+Made with ❤️ and 🎧 by Gulseren
